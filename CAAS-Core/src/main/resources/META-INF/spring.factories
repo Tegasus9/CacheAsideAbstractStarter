@@ -1,1 +1,2 @@
 # for spring auto configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.tegasus9.cacheasideabstract.config.RedisTemplateConfiguration
